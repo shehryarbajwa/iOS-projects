@@ -5,7 +5,7 @@
 //  Created by Shehryar Bajwa on 2018-04-22.
 //  Copyright © 2018 truBrain. All rights reserved.
 //
-
+//print("hello world")
 import UIKit
 
 private let reuseIdentifier = "Cell"
@@ -14,6 +14,7 @@ class MemeCollectionViewController: UICollectionViewController {
     
     @IBOutlet var collectionViewOutlet: UICollectionView!
     var memes: [Meme]!
+    
     let appDelegate = UIApplication.shared.delegate as! AppDelegate
 
     override func viewDidLoad() {
