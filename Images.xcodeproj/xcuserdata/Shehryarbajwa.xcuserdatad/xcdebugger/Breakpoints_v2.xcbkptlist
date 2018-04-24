@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Images/ViewController.swift"
+            timestampString = "545529835.2003191"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.ViewController.__deallocating_deinit"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images/Images/ViewController.swift"
+                  timestampString = "545529836.256678"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Images.ViewController"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images/Images/ViewController.swift"
+                  timestampString = "545529836.2600909"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Images.ViewController"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images/Images/ViewController.swift"
+                  timestampString = "545529836.2625149"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Images.ViewController&gt;"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images/Images/ViewController.swift"
+                  timestampString = "545529836.264448"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Images.ViewController&gt;"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images/Images/ViewController.swift"
+                  timestampString = "545529836.266515"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Images/ViewController.swift"
+            timestampString = "545688527.265851"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Images/ViewController.swift"
+            timestampString = "545688527.265851"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "unsubscribeFromKeyboardNotifications()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Images/MemeCollectionViewController.swift"
+            timestampString = "546219558.130932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MemeCollectionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.MemeCollectionViewController.memes.getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Images.Meme&gt;&gt;"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images%202/Images/MemeCollectionViewController.swift"
+                  timestampString = "546219558.168504"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.MemeCollectionViewController.memes.setter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.Array&lt;Images.Meme&gt;&gt;"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images%202/Images/MemeCollectionViewController.swift"
+                  timestampString = "546219558.1744961"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.MemeCollectionViewController.init (collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; Images.MemeCollectionViewController"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images%202/Images/MemeCollectionViewController.swift"
+                  timestampString = "546219558.177371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.MemeCollectionViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Images.MemeCollectionViewController"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images%202/Images/MemeCollectionViewController.swift"
+                  timestampString = "546219558.1799771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Images.MemeCollectionViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Images.MemeCollectionViewController&gt;"
+                  moduleName = "Images"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Shehryarbajwa/Documents/Images%202/Images/MemeCollectionViewController.swift"
+                  timestampString = "546219558.182004"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
